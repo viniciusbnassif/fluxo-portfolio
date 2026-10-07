@@ -1,0 +1,21 @@
+# Keep local credentials, databases, and Android build artifacts out of the portfolio.
+*.jks
+*.keystore
+*.p12
+*.pfx
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+*.apk
+*.aab
+.env
+.env.*
+local.properties
+google-services.json
+
+# Ignore local editor and operating-system files.
+.idea/
+.vscode/
+Thumbs.db
+.DS_Store

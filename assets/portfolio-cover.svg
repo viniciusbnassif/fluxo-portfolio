@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="480" viewBox="0 0 1440 480" role="img" aria-labelledby="title desc">
+  <title id="title">Fluxo — Vinicius Nassif, Android Developer</title>
+  <desc id="desc">Android development portfolio: sales and order management for field teams.</desc>
+  <!-- A self-contained vector cover stays sharp in the GitHub README. -->
+  <rect width="1440" height="480" rx="24" fill="#102e26"/>
+  <path d="M985 0H1440V480H1160Z" fill="#194233"/>
+  <path d="M1225 0H1440V480H1380Z" fill="#245640"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="72" y="79" font-size="20" letter-spacing="3" fill="#b8d9bb">ANDROID DEVELOPMENT PORTFOLIO</text>
+    <text x="64" y="244" font-size="154" font-weight="700" fill="#f5f9ef">Fluxo</text>
+    <text x="74" y="309" font-size="29" fill="#d3e6d6">Sales and order management for field teams.</text>
+    <rect x="74" y="358" width="52" height="4" rx="2" fill="#a7d9a5"/>
+    <text x="74" y="418" font-size="25" fill="#f5f9ef">Vinicius Nassif</text>
+    <text x="282" y="418" font-size="23" fill="#b8d9bb">/ Android Developer</text>
+    <!-- The three labels summarize the app workflow, not fictitious metrics. -->
+    <g fill="#214b3b" stroke="#548365" stroke-width="1.5">
+      <rect x="1030" y="100" width="320" height="76" rx="18"/>
+      <rect x="1030" y="203" width="320" height="76" rx="18"/>
+      <rect x="1030" y="306" width="320" height="76" rx="18"/>
+    </g>
+    <g fill="#e9f4e7" font-size="20" letter-spacing="1.5">
+      <text x="1060" y="148">01 / CUSTOMERS</text>
+      <text x="1060" y="251">02 / ORDERS</text>
+      <text x="1060" y="354">03 / SYNCHRONIZATION</text>
+    </g>
+  </g>
+</svg>
